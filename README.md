@@ -1,7 +1,5 @@
 # Dynamic Web Retrieval Engine
 
-# LangChain Conversational Agent
-
 ## Project Overview
 
 This search engine is designed to handle user queries through an integrated workflow automation system. The project's architecture encompasses various functionalities, such as document retrieval, relevance grading, question transformation, web search, and document generation. With dynamic retrieval and web scraping capabilities, result relevancy has significantly enhanced effectively eliminating content hallucination.
