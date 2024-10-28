@@ -29,4 +29,7 @@ This search engine is designed to handle user queries through an integrated work
    - Edges define the flow between nodes based on conditional logic (`decide_to_generate`).
    - The entire workflow is compiled into an executable application (`app`), processing input data through the defined stages.
 
+## Sample Output
+The content was not available locally, so it transformed its query to be suitable for web search and retrieved the results.
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/d78bf1ab-fae5-4e63-b577-abe21195da37">
 
